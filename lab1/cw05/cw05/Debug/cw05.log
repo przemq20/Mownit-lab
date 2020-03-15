@@ -1,0 +1,3 @@
+﻿  cw05.cpp
+C:\Users\lecho\OneDrive\Desktop\Mownit\lab1\cw05\cw05\cw05.cpp(8,53): warning C4305: "+=": obcięcie z "double" do "float"
+  cw05.vcxproj -> C:\Users\lecho\OneDrive\Desktop\Mownit\lab1\cw05\Debug\cw05.exe
