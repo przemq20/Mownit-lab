@@ -1,0 +1,7 @@
+﻿  lab5.cpp
+C:\Users\lecho\OneDrive\Desktop\Mownit\lab5\lab5\lab5.cpp(43,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lecho\OneDrive\Desktop\Mownit\lab5\lab5\lab5.cpp(51,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lecho\OneDrive\Desktop\Mownit\lab5\lab5\lab5.cpp(90,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lecho\OneDrive\Desktop\Mownit\lab5\lab5\lab5.cpp(122,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lecho\OneDrive\Desktop\Mownit\lab5\lab5\lab5.cpp(128,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  lab5.vcxproj -> C:\Users\lecho\OneDrive\Desktop\Mownit\lab5\Debug\lab5.exe
